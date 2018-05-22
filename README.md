@@ -1,3 +1,4 @@
-# BitIcon
+# 币圈入圈超简易指南
 Someting about biticon
-Test
+
+## 如何进场
