@@ -1,6 +1,6 @@
 # 币圈入圈超简易指南
 Someting about biticon
-
+https://pan.baidu.com/s/1waHevb7daSTCIS0q3qf7gg
 ## 如何进场
 
 1. 去OTCBTC注册，就可以现金进场，交易体验最友好，支持微信支付宝。<br />
